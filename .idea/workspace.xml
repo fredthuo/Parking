@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12cb983a-248b-4819-92b6-84662ee8aca6" name="Default Changelist" comment="Update">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local_history.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/profile/ProfileController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/profile/ProfileView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/address/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/address/Address.java" afterDir="false" />
     </list>
     <list id="4f464ce2-7dab-4e14-be01-b074b3ed70fd" name="New changelist" comment="New changelist" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,21 +25,57 @@
     <favorites_list name="Parking" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/profile/Profile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
+            <state relative-caret-position="-30">
               <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/address/Address.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+              <folding>
+                <element signature="e#364#365#0" expanded="true" />
+                <element signature="e#393#394#0" expanded="true" />
+                <element signature="e#437#438#0" expanded="true" />
+                <element signature="e#473#474#0" expanded="true" />
+                <element signature="e#504#505#0" expanded="true" />
+                <element signature="e#531#532#0" expanded="true" />
+                <element signature="e#571#572#0" expanded="true" />
+                <element signature="e#603#604#0" expanded="true" />
+                <element signature="e#635#636#0" expanded="true" />
+                <element signature="e#663#664#0" expanded="true" />
+                <element signature="e#705#706#0" expanded="true" />
+                <element signature="e#739#740#0" expanded="true" />
+                <element signature="e#769#770#0" expanded="true" />
+                <element signature="e#795#796#0" expanded="true" />
+                <element signature="e#833#834#0" expanded="true" />
+                <element signature="e#863#864#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/profile/ProfileView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+            <state relative-caret-position="269">
+              <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/profile/ProfileController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -61,9 +101,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/main/java/address/Address.java" />
         <option value="$PROJECT_DIR$/src/main/java/profile/ProfileView.java" />
         <option value="$PROJECT_DIR$/src/main/java/profile/ProfileController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/address/Address.java" />
       </list>
     </option>
   </component>
@@ -72,9 +112,7 @@
     <option name="width" value="748" />
     <option name="height" value="775" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -125,14 +163,6 @@
             </path>
             <path>
               <item name="Parking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Parking" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="signUp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Parking" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -177,7 +207,7 @@
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49885583" visible="true" weight="0.37821484" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49885583" visible="true" weight="0.37821484" />
       <window_info id="Structure" order="1" sideWeight="0.5011442" side_tool="true" weight="0.37821484" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -192,7 +222,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924356" weight="0.32872504" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.494705" weight="0.32872504" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="8" sideWeight="0.5060514" side_tool="true" visible="true" weight="0.32872504" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50378215" side_tool="true" visible="true" weight="0.32872504" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49621785" weight="0.32872504" />
       <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -287,6 +317,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/profile/Profile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/address/Address.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -312,18 +349,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/profile/ProfileController.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/profile/Profile.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/profile/ProfileView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        <state relative-caret-position="269">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/profile/ProfileView.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/profile/ProfileController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
