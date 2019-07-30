@@ -35,6 +35,7 @@ public class Profile {
         this.email = email;
     }
 
+
     public Address getAddress() {
         return address;
     }
