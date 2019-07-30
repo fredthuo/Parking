@@ -2,12 +2,58 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12cb983a-248b-4819-92b6-84662ee8aca6" name="Default Changelist" comment="Update">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/local_history.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/profile/ProfileController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/profile/ProfileView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/address/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/address/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/.gradle/4.7/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/.gradle/4.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/.gradle/4.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/.gradle/vcsWorkingDirs/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/app/src/commonMain/kotlin/sample/Sample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/app/src/commonTest/kotlin/sample/SampleTests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/app/src/iosMain/kotlin/sample/SampleIos.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/app/src/iosTest/kotlin/sample/SampleTestsIOS.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/app/src/main/java/sample/SampleAndroid.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/app/src/test/java/sample/SampleTestsAndroid.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/iosApp/iosApp.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/iosApp/iosApp/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/iosApp/iosApp/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/iosApp/iosApp/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/iosApp/iosApp/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/iosApp/iosApp/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/iosApp/iosAppTests/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/iosApp/iosAppTests/iosAppTests.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/address/AddressController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/address/AddressView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/email/Email.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/email/EmailController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/email/EmailView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gps/Gps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gps/GpsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gps/GpsView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/location/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/location/LocationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/location/LocationView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/maps/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/maps/MapController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/maps/MapView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/signUp/SignUpController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/signUp/SignUpView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/textMessage/TextMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/textMessage/TextMessageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/textMessage/TextMessageView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Parking.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/profile/Profile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/profile/Profile.java" afterDir="false" />
     </list>
     <list id="4f464ce2-7dab-4e14-be01-b074b3ed70fd" name="New changelist" comment="New changelist" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,56 +72,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/profile/Profile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-30">
-              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/address/Address.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-              <folding>
-                <element signature="e#364#365#0" expanded="true" />
-                <element signature="e#393#394#0" expanded="true" />
-                <element signature="e#437#438#0" expanded="true" />
-                <element signature="e#473#474#0" expanded="true" />
-                <element signature="e#504#505#0" expanded="true" />
-                <element signature="e#531#532#0" expanded="true" />
-                <element signature="e#571#572#0" expanded="true" />
-                <element signature="e#603#604#0" expanded="true" />
-                <element signature="e#635#636#0" expanded="true" />
-                <element signature="e#663#664#0" expanded="true" />
-                <element signature="e#705#706#0" expanded="true" />
-                <element signature="e#739#740#0" expanded="true" />
-                <element signature="e#769#770#0" expanded="true" />
-                <element signature="e#795#796#0" expanded="true" />
-                <element signature="e#833#834#0" expanded="true" />
-                <element signature="e#863#864#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/profile/ProfileView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/profile/ProfileController.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="1170">
+              <caret line="78" column="4" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -94,7 +95,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Dev" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
   </component>
@@ -104,6 +105,7 @@
         <option value="$PROJECT_DIR$/src/main/java/address/Address.java" />
         <option value="$PROJECT_DIR$/src/main/java/profile/ProfileView.java" />
         <option value="$PROJECT_DIR$/src/main/java/profile/ProfileController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -118,8 +120,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,6 +132,11 @@
             <path>
               <item name="Parking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Parking" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Parking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Parking" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -148,18 +155,7 @@
             <path>
               <item name="Parking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Parking" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="address" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Parking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Parking" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="profile" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Parking" type="b2602c69:ProjectViewProjectNode" />
@@ -169,6 +165,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -204,10 +201,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49885583" visible="true" weight="0.37821484" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49885583" visible="true" weight="0.23263328" />
       <window_info id="Structure" order="1" sideWeight="0.5011442" side_tool="true" weight="0.37821484" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -222,7 +219,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924356" weight="0.32872504" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.494705" weight="0.32872504" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50378215" side_tool="true" visible="true" weight="0.32872504" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50807756" side_tool="true" visible="true" weight="0.3561644" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49621785" weight="0.32872504" />
       <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -317,49 +314,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/target/Jenkinsfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/CODEOWNERS">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/profile/Profile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-30">
+        <state relative-caret-position="150">
           <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/address/Address.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        <state relative-caret-position="345">
+          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
           <folding>
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#393#394#0" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
-            <element signature="e#473#474#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#571#572#0" expanded="true" />
-            <element signature="e#603#604#0" expanded="true" />
+            <element signature="e#609#610#0" expanded="true" />
             <element signature="e#635#636#0" expanded="true" />
-            <element signature="e#663#664#0" expanded="true" />
-            <element signature="e#705#706#0" expanded="true" />
-            <element signature="e#739#740#0" expanded="true" />
-            <element signature="e#769#770#0" expanded="true" />
-            <element signature="e#795#796#0" expanded="true" />
-            <element signature="e#833#834#0" expanded="true" />
-            <element signature="e#863#864#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/profile/ProfileView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/profile/ProfileController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/profile/ProfileView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="78" column="4" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="4" />
         </state>
       </provider>
     </entry>
