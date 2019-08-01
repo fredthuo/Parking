@@ -28,6 +28,7 @@
         <version>1.4.2.RELEASE</version>
     </parent>
 
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -71,6 +72,7 @@
         <dependency>
             <groupId>org.jboss.resteasy</groupId>
             <artifactId>resteasy-jaxrs</artifactId>
+            <version>4.0.0.Beta5</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
@@ -96,6 +98,25 @@
             <artifactId>spring-webmvc</artifactId>
             <version>${spring.version}</version>
         </dependency>
+
+        <dependency>
+            <groupId>com.atlassian.connect</groupId>
+            <artifactId>atlassian-connect-spring-boot-starter</artifactId>
+            <version>1.4.2</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.atlassian.jira</groupId>
+            <artifactId>jira-rest-java-client-core</artifactId>
+            <version>5.1.0</version>
+        </dependency>
+
+        <dependency>
+            <groupId>io.atlassian.fugue</groupId>
+            <artifactId>fugue</artifactId>
+            <version>4.5.1</version>
+        </dependency>
+
     </dependencies>
 
     <build>
@@ -126,8 +147,6 @@
                     <stopPort>8005</stopPort>
                 </configuration>
             </plugin>
-
-
         </plugins>
     </build>
 </project>
