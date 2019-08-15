@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12cb983a-248b-4819-92b6-84662ee8aca6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/signUp/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/signUp/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/signUp/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/signUp/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jiraConnect/MyJiraClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jiraConnect/MyJiraClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/signUp/SignUp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/signUp/SignUpController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/signUp/SignUpController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/signUp/SignUpView.java" beforeDir="false" />
-    </list>
+    <list default="true" id="12cb983a-248b-4819-92b6-84662ee8aca6" name="Default Changelist" comment="" />
     <list id="4f464ce2-7dab-4e14-be01-b074b3ed70fd" name="New changelist" comment="" />
     <ignored path="" />
     <ignored path="$PROJECT_DIR$/target/classes/" />
@@ -73,7 +62,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/signUp/SignUpController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
+            <state relative-caret-position="131">
               <caret line="115" column="32" selection-start-line="115" selection-start-column="32" selection-end-line="115" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -122,7 +111,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/signUp/User.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="359">
-              <caret line="23" column="25" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="25" />
+              <caret line="28" column="25" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="25" />
               <folding>
                 <element signature="e#263#264#0" expanded="true" />
                 <element signature="e#294#295#0" expanded="true" />
@@ -163,7 +152,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/signUp/LoginController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="67">
-              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+              <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -175,7 +164,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/signUp/UserService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="7" />
+              <caret line="6" selection-start-line="6" selection-end-line="7" />
               <folding>
                 <element signature="e#152#153#0" expanded="true" />
                 <element signature="e#194#195#0" expanded="true" />
@@ -281,7 +270,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-6" />
     <option name="width" value="1015" />
     <option name="height" value="775" />
@@ -325,7 +314,47 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="address" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="email" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="jiraConnect" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="location" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="maps" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
@@ -347,6 +376,25 @@
               <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="generated-sources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
@@ -492,7 +540,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565776133617</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Jira Dependancy Error">
+      <created>1565835040758</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1565835040758</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -516,10 +571,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="1015" height="775" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4965035" visible="true" weight="0.26910993" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4965035" visible="true" weight="0.19440243" />
       <window_info id="Structure" order="1" sideWeight="0.5034965" side_tool="true" weight="0.50436044" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -536,8 +590,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924356" weight="0.32872504" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.494705" weight="0.32866043" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.4366492" side_tool="true" visible="true" weight="0.15732087" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.5633508" visible="true" weight="0.15732087" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.4364599" side_tool="true" visible="true" weight="0.15514593" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.5635401" visible="true" weight="0.15514593" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49394855" weight="0.32872504" />
       <window_info anchor="bottom" id="Android Profiler" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Logcat" order="12" />
@@ -545,7 +599,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.032460734" />
+      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.023449318" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
@@ -827,7 +881,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/signUp/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="359">
-          <caret line="23" column="25" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="25" />
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="25" />
           <folding>
             <element signature="e#263#264#0" expanded="true" />
             <element signature="e#294#295#0" expanded="true" />
@@ -866,7 +920,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/signUp/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="7" />
+          <caret line="6" selection-start-line="6" selection-end-line="7" />
           <folding>
             <element signature="e#152#153#0" expanded="true" />
             <element signature="e#194#195#0" expanded="true" />
@@ -894,7 +948,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/signUp/LoginController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="67">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -903,7 +957,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/signUp/SignUpController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
+        <state relative-caret-position="131">
           <caret line="115" column="32" selection-start-line="115" selection-start-column="32" selection-end-line="115" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
